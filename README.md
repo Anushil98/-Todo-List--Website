@@ -1,2 +1,2 @@
 # -Todo-List--Website
-A basic(FrontEndOnly) webApp made using Java Script Html and Css
+A basic(Frontnd only) webApp made using Javascript, Html and Css
